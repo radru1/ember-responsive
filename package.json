@@ -1,6 +1,6 @@
 {
   "name": "ember-responsive",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "description": "An ember-cli addon that gives you a simple, Ember-aware way of dealing with media queries.",
   "directories": {
     "doc": "doc",
@@ -31,6 +31,7 @@
   },
   "devDependencies": {
     "@ember/string": "^3.0.0",
+    "ember-auto-import": "^2.0.0",
     "@babel/eslint-parser": "^7.19.1",
     "@babel/eslint-plugin": "^7.19.1",
     "@babel/plugin-proposal-decorators": "^7.20.5",
