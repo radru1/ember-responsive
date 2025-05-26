@@ -27,7 +27,7 @@
   "dependencies": {
     "ember-cli-babel": "^7.26.11",
     "tracked-built-ins": "^3.1.0",
-    "@ember/string": "^3.0.0"
+    "@ember/string": "^3.0.0",
     "ember-auto-import": "^2.0.0",
   },
   "devDependencies": {
