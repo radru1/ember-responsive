@@ -1,1 +1,1 @@
-export { default } from 'ember-responsive/test-support';
+export * from 'ember-responsive/test-support';
